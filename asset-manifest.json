@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lakshmirexinhouse/static/css/main.3b647d3f.css",
+    "main.js": "/lakshmirexinhouse/static/js/main.876580d4.js",
+    "static/js/453.8ab44547.chunk.js": "/lakshmirexinhouse/static/js/453.8ab44547.chunk.js",
+    "static/media/photo-collage.png (1).png": "/lakshmirexinhouse/static/media/photo-collage.png (1).185604ea3e8a652e19cb.png",
+    "static/media/21688.jpg": "/lakshmirexinhouse/static/media/21688.df3f2043f8a10c64eaf1.jpg",
+    "static/media/newimg3.jpg": "/lakshmirexinhouse/static/media/newimg3.c39c4828415520cdf88a.jpg",
+    "static/media/pexels-jonathanborba-3255244 (2).jpg": "/lakshmirexinhouse/static/media/pexels-jonathanborba-3255244 (2).fa1416d7caffbd938fd2.jpg",
+    "static/media/window-6885494_640.jpg": "/lakshmirexinhouse/static/media/window-6885494_640.33d470fd761f91d6565d.jpg",
+    "static/media/lisa-forkner-slASWHN16h8-unsplash.jpg": "/lakshmirexinhouse/static/media/lisa-forkner-slASWHN16h8-unsplash.960920b82349bbbbc900.jpg",
+    "static/media/curtains-hang-from-several-window-openings1.jpg": "/lakshmirexinhouse/static/media/curtains-hang-from-several-window-openings1.1cf79ca63d9c4934d34a.jpg",
+    "static/media/craig-whitehead-c4pxfOcObVI-unsplash.jpg": "/lakshmirexinhouse/static/media/craig-whitehead-c4pxfOcObVI-unsplash.6e3d94fc76497f993efd.jpg",
+    "static/media/darren-richardson--E7D6OhcAVY-unsplash.jpg": "/lakshmirexinhouse/static/media/darren-richardson--E7D6OhcAVY-unsplash.de19017e450d3f579fda.jpg",
+    "static/media/christopher-martyn-nx1Qs_Q04dY-unsplash.jpg": "/lakshmirexinhouse/static/media/christopher-martyn-nx1Qs_Q04dY-unsplash.64c8e71ff594719bd73d.jpg",
+    "index.html": "/lakshmirexinhouse/index.html",
+    "main.3b647d3f.css.map": "/lakshmirexinhouse/static/css/main.3b647d3f.css.map",
+    "main.876580d4.js.map": "/lakshmirexinhouse/static/js/main.876580d4.js.map",
+    "453.8ab44547.chunk.js.map": "/lakshmirexinhouse/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b647d3f.css",
+    "static/js/main.876580d4.js"
+  ]
+}
