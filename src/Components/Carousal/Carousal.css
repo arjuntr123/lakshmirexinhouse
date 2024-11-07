@@ -1,0 +1,34 @@
+.Carousal{
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    height: 500px;
+}
+.Carousal-scroll{
+    overflow: hidden;
+    height: 100%;
+    white-space: nowrap;
+    display: flex;
+    justify-content: space-between;
+    width: fit-content;
+    animation: scrollImage 35s infinite linear;
+}
+.Carousal-span{
+    display: inline-block;
+}
+
+.Carousal-span-img{
+    height: 100%;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 7px;
+}
+@keyframes scrollImage {
+    from{
+        transform: translateX(0%);
+    }
+    to{
+        transform: translateX(-50%);
+    }
+}
